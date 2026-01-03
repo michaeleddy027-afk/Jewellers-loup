@@ -937,10 +937,6 @@ h1, h2, h3, h4 {
         font-size: 2.5rem;
     }
 
-    .hero-title {
-        font-size: 2.5rem;
-    }
-
     .hero-subtitle {
         font-size: 1.1rem;
     }
@@ -1043,12 +1039,16 @@ h1, h2, h3, h4 {
     .carousel-track {
         gap: 0.8rem;
     }
-    
     .logo-image {
         height: 35px;
     }
     
     .logo-text {
-        font-size: 1rem;
+        font-size: 0.85rem;
+        letter-spacing: 0.2px;
+    }
+    
+    .logo {
+        gap: 0.4rem;
     }
 }
