@@ -920,6 +920,22 @@ h1, h2, h3, h4 {
     .hamburger.active span:nth-child(3) {
         transform: rotate(-45deg) translate(7px, -7px);
     }
+    .logo-image {
+        height: 40px;
+    }
+    
+    .logo-text {
+        font-size: 0.95rem;
+        letter-spacing: 0.3px;
+    }
+    
+    .logo {
+        gap: 0.5rem;
+    }
+
+    .hero-title {
+        font-size: 2.5rem;
+    }
 
     .hero-title {
         font-size: 2.5rem;
