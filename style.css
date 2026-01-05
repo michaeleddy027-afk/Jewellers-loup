@@ -137,12 +137,12 @@ h1, h2, h3, h4 {
 
 .hero::before {
     content: '';
-    position: absolute;
+    position: top center;
     top: 0;
     left: 0;
     right: 0;
     bottom: 0;
-    background: url('necklace2.jpg') repeat;
+    background: url('necklace2.jpg') no-repeat;
     animation: sparkle 20s linear infinite;
 }
 
